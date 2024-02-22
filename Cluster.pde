@@ -6,5 +6,5 @@ public class Cluster {
         for (int i = 1; i <= NUM_STEMS; i++) {
             new Tendril(len, i*2*PI/NUM_STEMS, x, y, tone).show();
         }
-    }
+    } 
 }
