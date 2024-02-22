@@ -3,7 +3,7 @@ public class Tendril {
     private int myNumSegments, myX, myY;
     color pigment;
     private double myAngle;
-
+ 
     /* Class constructor
        len is how many segments in this tendril (each a fixed length, 4 is a good start)
        theta is tendril starting angle in radians
